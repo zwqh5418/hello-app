@@ -9,6 +9,7 @@ request.setAttribute("name", name1);
 <html>
 <body>
 <h1>你好！王强<h1>
+<h1>你好!周德永<h1>
 <h2>Hello <%=name1 %> !</h2>
 </body>
 </html>
